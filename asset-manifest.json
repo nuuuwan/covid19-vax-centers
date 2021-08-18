@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/covid19-vax-centers/static/css/main.a617e044.chunk.css",
+    "main.js": "/covid19-vax-centers/static/js/main.2025a7ec.chunk.js",
+    "main.js.map": "/covid19-vax-centers/static/js/main.2025a7ec.chunk.js.map",
+    "runtime-main.js": "/covid19-vax-centers/static/js/runtime-main.dac316f8.js",
+    "runtime-main.js.map": "/covid19-vax-centers/static/js/runtime-main.dac316f8.js.map",
+    "static/js/2.60952e2e.chunk.js": "/covid19-vax-centers/static/js/2.60952e2e.chunk.js",
+    "static/js/2.60952e2e.chunk.js.map": "/covid19-vax-centers/static/js/2.60952e2e.chunk.js.map",
+    "static/js/3.16d0521d.chunk.js": "/covid19-vax-centers/static/js/3.16d0521d.chunk.js",
+    "static/js/3.16d0521d.chunk.js.map": "/covid19-vax-centers/static/js/3.16d0521d.chunk.js.map",
+    "index.html": "/covid19-vax-centers/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/covid19-vax-centers/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.60952e2e.chunk.js.LICENSE.txt": "/covid19-vax-centers/static/js/2.60952e2e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/covid19-vax-centers/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dac316f8.js",
+    "static/js/2.60952e2e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2025a7ec.chunk.js"
+  ]
+}
